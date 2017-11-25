@@ -1,0 +1,29 @@
+{
+  "enabled":true,
+  "wallet": "33MQmd3LSueY4gxSCXSJLrmVxtQ6WTQqJP",
+  "password" : "x",
+  "enable_worker_id": true, 
+  "proxy_name":"cryptonightproxy",
+  "stratum":{
+    "bind":"0.0.0.0",
+    "port":3355
+  },
+  "pool":{
+    "host":"www.nicehash.gpu360.com",
+    "port":3355 
+  },
+  "pool_failover_enabled":true,
+  "pool_failover":[
+    { "host" : "zec-eu2.nanopool.org"  , "port" : 6666 },
+    { "host" : "eu1-zcash.flypool.org"  , "port" : 3443,  "ssl" : true},
+    { "host" : "eu1-zcash.flypool.org"  , "port" : 3333,  "ssl" : false},
+    { "host" : "us1-zcash.flypool.org"  , "port" : 3333 , "ssl" : false },
+    { "host" : "cn1-zcash.flypool.org"  , "port" : 3333 , "ssl" : false },
+    { "host" : "asia1-zcash.flypool.org", "port" : 3333 , "ssl" : false }
+  ],
+  "restart_delay": 10,
+  "on_rejected_share": {
+    "strategy" : "restart",
+    "threshold" : 5
+  }
+}
