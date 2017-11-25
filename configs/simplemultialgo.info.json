@@ -1,0 +1,187 @@
+{
+    "result": {
+        "simplemultialgo": [
+            {
+                "paying": "0.00420543",
+                "port": 3333,
+                "name": "scrypt",
+                "algo": 0
+            },
+            {
+                "paying": "0.0000002",
+                "port": 3334,
+                "name": "sha256",
+                "algo": 1
+            },
+            {
+                "paying": "0",
+                "port": 3335,
+                "name": "scryptnf",
+                "algo": 2
+            },
+            {
+                "paying": "0.00004591",
+                "port": 3336,
+                "name": "x11",
+                "algo": 3
+            },
+            {
+                "paying": "0.00108897",
+                "port": 3337,
+                "name": "x13",
+                "algo": 4
+            },
+            {
+                "paying": "0.00031031",
+                "port": 3338,
+                "name": "keccak",
+                "algo": 5
+            },
+            {
+                "paying": "0.00104338",
+                "port": 3339,
+                "name": "x15",
+                "algo": 6
+            },
+            {
+                "paying": "0.00401",
+                "port": 3340,
+                "name": "nist5",
+                "algo": 7
+            },
+            {
+                "paying": "0.3090086",
+                "port": 3341,
+                "name": "neoscrypt",
+                "algo": 8
+            },
+            {
+                "paying": "0.00753046",
+                "port": 3342,
+                "name": "lyra2re",
+                "algo": 9
+            },
+            {
+                "paying": "0",
+                "port": 3343,
+                "name": "whirlpoolx",
+                "algo": 10
+            },
+            {
+                "paying": "0.00037108",
+                "port": 3344,
+                "name": "qubit",
+                "algo": 11
+            },
+            {
+                "paying": "0.00036596",
+                "port": 3345,
+                "name": "quark",
+                "algo": 12
+            },
+            {
+                "paying": "0",
+                "port": 3346,
+                "name": "axiom",
+                "algo": 13
+            },
+            {
+                "paying": "0.00701784",
+                "port": 3347,
+                "name": "lyra2rev2",
+                "algo": 14
+            },
+            {
+                "paying": "0",
+                "port": 3348,
+                "name": "scryptjanenf16",
+                "algo": 15
+            },
+            {
+                "paying": "0",
+                "port": 3349,
+                "name": "blake256r8",
+                "algo": 16
+            },
+            {
+                "paying": "0",
+                "port": 3350,
+                "name": "blake256r14",
+                "algo": 17
+            },
+            {
+                "paying": "0.0000001",
+                "port": 3351,
+                "name": "blake256r8vnl",
+                "algo": 18
+            },
+            {
+                "paying": "110",
+                "port": 3352,
+                "name": "hodl",
+                "algo": 19
+            },
+            {
+                "paying": "0.00827909",
+                "port": 3353,
+                "name": "daggerhashimoto",
+                "algo": 20
+            },
+            {
+                "paying": "0.0000537",
+                "port": 3354,
+                "name": "decred",
+                "algo": 21
+            },
+            {
+                "paying": "299.11716838",
+                "port": 3355,
+                "name": "cryptonight",
+                "algo": 22
+            },
+            {
+                "paying": "0.00057478",
+                "port": 3356,
+                "name": "lbry",
+                "algo": 23
+            },
+            {
+                "paying": "654.79709289",
+                "port": 3357,
+                "name": "equihash",
+                "algo": 24
+            },
+            {
+                "paying": "0.00009803",
+                "port": 3358,
+                "name": "pascal",
+                "algo": 25
+            },
+            {
+                "paying": "0.00230802",
+                "port": 3359,
+                "name": "x11gost",
+                "algo": 26
+            },
+            {
+                "paying": "0.00005013",
+                "port": 3360,
+                "name": "sia",
+                "algo": 27
+            },
+            {
+                "paying": "0.00003784",
+                "port": 3361,
+                "name": "blake2s",
+                "algo": 28
+            },
+            {
+                "paying": "0.00813582",
+                "port": 3362,
+                "name": "skunk",
+                "algo": 29
+            }
+        ]
+    },
+    "method": "simplemultialgo.info"
+}
