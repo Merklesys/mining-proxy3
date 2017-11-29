@@ -24,6 +24,6 @@
   "restart_delay": 10,
   "on_rejected_share": {
     "strategy" : "restart",
-    "threshold" : 5
+    "threshold" : 500
   }
 }
